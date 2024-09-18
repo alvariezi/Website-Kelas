@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroSection = () => {
   return (
-    <section className="py-28 relative">
+    <section className="py-28 px-4 relative">
       <div className="container mx-auto flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 text-center md:text-left mb-8 mt-1 md:mt-10 md:mb-0 max-w-[500px]">
           <h3 className="text-[#604CC3] font-semibold text-xl mb-4">
