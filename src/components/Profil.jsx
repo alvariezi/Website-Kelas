@@ -14,7 +14,7 @@ const ProfileSection = () => {
         {/* Card Guru */}
         <div className="bg-white shadow-lg rounded-[30px] overflow-hidden transition-transform transform hover:scale-105">
           <img
-            src="../public/guru.png"
+            src="/guru.png"
             alt="Guru Pengembangan Perangkat Lunak"
             className="w-full h-auto"
           />
@@ -37,7 +37,7 @@ const ProfileSection = () => {
         {/* Card Siswa */}
         <div className="bg-white shadow-lg rounded-[30px] overflow-hidden transition-transform transform hover:scale-105">
           <img
-            src="../public/siswa.png"
+            src="/siswa.png"
             alt="Siswa Pengembangan Perangkat Lunak"
             className="w-full h-auto"
           />
